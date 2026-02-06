@@ -1,0 +1,9 @@
+{
+    "totales_stock_por_provincia": {
+        "Madrid": 53,
+        "Valencia": 36,
+        "Murcia": 22
+    },
+    "errores": [],
+    "registros_procesados": 10
+}

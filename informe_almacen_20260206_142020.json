@@ -1,0 +1,40 @@
+{
+    "totales_stock_por_provincia": {
+        "Madrid": 53,
+        "Valencia": 36,
+        "Murcia": 22
+    },
+    "ranking_top_5_por_precio": [
+        {
+            "producto": "Portátil",
+            "valor": 899.99,
+            "porcentaje": 42.06
+        },
+        {
+            "producto": "Tablet",
+            "valor": 299.99,
+            "porcentaje": 14.02
+        },
+        {
+            "producto": "Monitor",
+            "valor": 199.99,
+            "porcentaje": 9.35
+        },
+        {
+            "producto": "Impresora",
+            "valor": 149.99,
+            "porcentaje": 7.01
+        },
+        {
+            "producto": "Disco SSD",
+            "valor": 129.99,
+            "porcentaje": 6.07
+        }
+    ],
+    "errores": [
+        "Error en producto PROD011: Dato no numérico",
+        "Error en producto PROD012: Dato no numérico"
+    ],
+    "procesados_ok": 10,
+    "procesados_error": 2
+}
