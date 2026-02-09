@@ -116,7 +116,7 @@ if __name__ == "__main__":
         Producto("PROD009", "Altavoces", 11, 89.99, 45.0, "Software", "Madrid"),
         Producto("PROD010", "Disco SSD", 8, 129.99, 70.0, "Hardware", "Murcia"),
 
-        # productos corruptos a propósito (Hito 3)
+        # productos corruptos a propósito como el enunciado del HIto 3
         Producto("PROD011", "Pantalla rota", "ERROR_DATA", 99.99, 50.0, "Hardware", "Madrid"),
         Producto("PROD012", "Cámara", None, 59.99, 30.0, "Hardware", "Murcia"),
     ]
